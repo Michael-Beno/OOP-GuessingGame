@@ -1,0 +1,9 @@
+4:Apple:Trip to Donegal
+4:Pear:Trip to Killarney
+4:Plum:€1 000 cash
+5:Grape:Car
+5:Banana:Trip to Caribbean
+5:Apricot:€10 000 cash
+6:Mango:€1 000 000 cash
+6:Lime:€1000 cash, paid weekly for 20years
+6:Orange:Luxury House
