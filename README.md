@@ -1,27 +1,21 @@
-# OOPgameProject2017
+# OOP-Guessing Game
 
-This game Application contributing from Custom Maven library (separate project), reading a text from the file and serializing/deserializing a list of winners.
+This Guessing Game Application contributing the Custom Maven library (separate project), reading text from the file and serializing/deserializing a custom Binary Tree. Assignment - College work 2018-Y2-S2 <br>
+<b>JavaFX SQL Maven library</b>
 
-### Guessing Game
-![Guessing Game](https://strategix.myqnapcloud.com/gogs/java/OOP-game/raw/master/images/Guessing.JPG)
+-----
 
-### Win in Guessing Game
-![Win in Guessing Game](https://strategix.myqnapcloud.com/gogs/java/OOP-game/raw/master/images/GuessingGameWin.JPG)
 
-### Playing 4 star game
-![Playing 4 star game](https://strategix.myqnapcloud.com/gogs/java/OOP-game/raw/master/images/Prize4-cashJPG.JPG)
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/guessing.JPG" width="33%" >
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/guessing-win.JPG" width="33%" >
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/prize4.JPG" width="33%" >
 
-### Prize not collected
-![Prize not collected](https://strategix.myqnapcloud.com/gogs/java/OOP-game/raw/master/images/Prize-not-collecetd.JPG)
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/prize4-trip.JPG" width="33%" >
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/prize-not-collecetd.JPG" width="33%" >
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/loto.JPG" width="33%" >
 
-### Loto Cure Game
-![Loto Cure Game](https://strategix.myqnapcloud.com/gogs/java/OOP-game/raw/master/images/LotoCure.JPG)
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/loto-win5.JPG" width="33%" >
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/price5.JPG" width="33%" >
+<img alt="OOP-Guessing Game" src="https://strategix.myqnapcloud.com/images/oop-game/winners.JPG" width="33%" >
 
-### Win Loto Cure
-![Win Loto Cure](https://strategix.myqnapcloud.com/gogs/java/OOP-game/raw/master/images/LotoWin5.JPG)
-
-### Playing 5 star game
-![Playing 5 star game](https://strategix.myqnapcloud.com/gogs/java/OOP-game/raw/master/images/CollectPrice5.JPG)
-
-### Winners
-![](https://strategix.myqnapcloud.com/gogs/java/OOP-game/raw/master/images/Winners.JPG)
+-----
