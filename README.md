@@ -8,6 +8,7 @@ This Guessing Game Application contributing the Custom Maven library (separate p
 
 <img alt="OOP-Guessing Game" src="https://raw.githubusercontent.com/Michael-Beno/OOP-GuessingGame/master/images/CollectPrice5.JPG" width="33%" >
 <img alt="OOP-Guessing Game" src="https://github.com/Michael-Beno/OOP-GuessingGame/blob/master/images/Prize4.JPG" width="33%" >
+<img alt="OOP-Guessing Game" src="https://github.com/Michael-Beno/OOP-GuessingGame/blob/master/images/Guessing.JPG" width="33%" >
 
 <img alt="OOP-Guessing Game" src="https://github.com/Michael-Beno/OOP-GuessingGame/blob/master/images/Prize4.JPG" width="33%" >
 <img alt="OOP-Guessing Game" src="https://github.com/Michael-Beno/OOP-GuessingGame/blob/master/images/Prize-not-collecetd.JPG" width="33%" >
